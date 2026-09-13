@@ -97,6 +97,7 @@ events in `event-log.md` as they happen (a sentence or two). Review the log patt
 | File | Purpose | Status |
 |---|---|---|
 | `system-rules.md` | This file — the constitution of the system | Living document |
+| `reference/` | Verified valuation methodology (DCF, comps, precedent transactions) from Anthropic's financial-services repo — reference material for the individual mega-cap decision | Added 2026-09-13 |
 | `research-log.md` | Findings as each chain-link (AI/semi, power, battery) gets researched | To start |
 | `event-log.md` | Material geopolitical/market events only | To start |
 | `ai-opinions-log.md` | Template log of questions taken to other AI tools + their answers | To start |
